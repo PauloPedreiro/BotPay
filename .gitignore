@@ -1,0 +1,21 @@
+# Dependências
+node_modules/
+
+# Configurações confidenciais
+config.json
+
+# Banco de dados local
+database.json
+database.tmp
+
+# Compilação e Distribuição
+dist/
+*.exe
+
+# Logs
+logs/
+*.log
+
+# Outros
+.DS_Store
+.env
