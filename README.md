@@ -107,3 +107,10 @@ Requires Node.js installed on the server.
 *   `/meta` - Displays the current monthly donation goal.
 *   `/setmeta <value>` - Allows real-time modification of the monthly donation goal.
 *   `/aprovar-doacao <id>` - Administrative command to manually approve any pending donation.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) - see the file for details.
+

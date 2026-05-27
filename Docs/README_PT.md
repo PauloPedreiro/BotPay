@@ -107,3 +107,10 @@ Requer Node.js instalado na máquina.
 *   `/meta` - Exibe a meta atual de doações de forma interativa.
 *   `/setmeta <valor>` - Permite alterar o valor da meta de doações mensal em tempo real.
 *   `/aprovar-doacao <id>` - Comando administrativo para aprovar manualmente uma doação pendente (caso precise resgatar algum pagamento manual fora do bot).
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [Licença MIT](../LICENSE) - consulte o arquivo para obter mais detalhes.
+
