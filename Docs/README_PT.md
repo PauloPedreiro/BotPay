@@ -3,8 +3,17 @@
 Bot de doações completo para servidores de Discord com suporte nativo a **Mercado Pago (PIX)**, **Stripe (Cartão de Crédito)**, localização bilíngue (Português/Inglês) e painel administrativo integrado.
 
 <p align="center">
-  <img src="imagens/BotPayFaixa.png" alt="Painel de Doações" width="45%" />
-  <img src="imagens/BotPay.png" alt="Seleção de Valores (Ticket)" width="45%" />
+  <img src="imagens/BotPayFaixa.png" alt="BotPay Banner" width="55%" />
+  <img src="imagens/BotPay.png" alt="BotPay Logo" width="35%" />
+</p>
+
+---
+
+## 📸 Capturas de Tela
+
+<p align="center">
+  <img src="imagens/image1.png" alt="Painel de Metas" width="48%" />
+  <img src="imagens/image.png" alt="Seleção de Valores (Ticket)" width="48%" />
 </p>
 
 ---

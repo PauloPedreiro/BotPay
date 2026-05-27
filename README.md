@@ -3,8 +3,17 @@
 A complete donation bot for Discord servers with native support for **Mercado Pago (PIX)**, **Stripe (Credit Card)**, bilingual localization (Portuguese/English), and an integrated administrative panel.
 
 <p align="center">
-  <img src="Docs/imagens/BotPayFaixa.png" alt="Donation Panel" width="45%" />
-  <img src="Docs/imagens/BotPay.png" alt="Value Selection (Ticket)" width="45%" />
+  <img src="Docs/imagens/BotPayFaixa.png" alt="BotPay Banner" width="55%" />
+  <img src="Docs/imagens/BotPay.png" alt="BotPay Logo" width="35%" />
+</p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Docs/imagens/image1.png" alt="Donation Goal Panel" width="48%" />
+  <img src="Docs/imagens/image.png" alt="Ticket Amount Selection" width="48%" />
 </p>
 
 ---
